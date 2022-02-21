@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[23]:
+Analise da evoluçao da inflação
 
 
 #importando os dados disponibilizados no dalake 
